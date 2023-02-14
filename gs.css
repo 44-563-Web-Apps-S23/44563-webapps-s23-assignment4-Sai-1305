@@ -1,0 +1,24 @@
+.speech {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16;
+    color: black;
+}
+.direction{
+    font-family: monospace;
+    font-size: 20;
+    color: black;
+    background-color:lightblue;
+}
+.direction:hover{
+    background-color: rgb(36, 181, 181);
+    color: white;
+}
+.name{
+    
+}
+.lane{
+    color: rgb(135, 18, 131);
+}
+.bauer{
+    color:rgb(235, 176, 17)
+}
