@@ -45,3 +45,9 @@ tr:nth-child(even){
 tr,th{
     width: 200px;
 }
+
+h4:hover{
+    text-shadow: 3px 5px 3px rgb(51, 51, 42);
+    width:20%;
+    border: 1pt solid brown;
+}
