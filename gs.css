@@ -1,0 +1,27 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    color: black;
+}
+
+.direction{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12pt;
+    color: black;
+    background-color: lightblue;
+}
+
+.direction:hover{
+    color: red;
+    background-color: yellow;
+}
+
+.name{}
+
+.lane{
+    color: darkviolet;
+}
+
+.mrs.bauer{
+    color: deeppink;
+}
