@@ -25,3 +25,23 @@
 .mrs_bauer{
     color: deeppink;
 }
+
+table,td,th{
+    border: 1pt solid;
+    border-color: blue;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10pt;
+}
+
+th{
+    background-color: darksalmon;
+}
+
+tr:nth-child(even){
+    background-color: lightgreen;
+}
+
+tr,th{
+    width: 200px;
+}
