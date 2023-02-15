@@ -10,15 +10,17 @@
     background-color:lightblue;
 }
 .direction:hover{
-    background-color: rgb(36, 181, 181);
-    color: white;
+    background-color: rgb(238, 230, 80);
+    color: rgb(244, 19, 106);
 }
 .name{
     
 }
 .lane{
-    color: rgb(135, 18, 131);
+    font-size: 22;
+    color: rgba(48, 220, 5, 0.84);
 }
 .bauer{
-    color:rgb(235, 176, 17)
+    font-size: 22;
+    color:rgb(179, 73, 130);
 }
