@@ -24,3 +24,20 @@
     font-size: 22;
     color:rgb(179, 73, 130);
 }
+table,th,td{
+    border: 2px solid;
+    border-color: rgb(0, 174, 255);
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10pt;
+}
+th{
+    background-color: rgb(247, 197, 136);
+}
+tr,th{
+    width: 200px;
+    height: 1pt;
+}
+tr:nth-child(even){
+    background-color: rgb(180, 242, 185);
+}
