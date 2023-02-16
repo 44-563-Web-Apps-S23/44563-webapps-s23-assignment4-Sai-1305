@@ -51,3 +51,25 @@ h4:hover{
     width:20%;
     border: 1pt solid brown;
 }
+
+.navbar li{
+    list-style-type: none;
+    float: left;
+    margin: 1px solid gold;
+    padding: 1px;
+    width: 10%;
+    text-align: center;
+    border: 1px solid blue;
+    border-collapse: separate;
+    display: block;
+}
+
+.navbar li:hover{
+    background-color: yellow;
+    color: rgb(255, 0, 0);
+}
+
+img{
+    width: 200px;
+    height: 350px;    
+}
